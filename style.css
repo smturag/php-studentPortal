@@ -1,0 +1,197 @@
+#hn{
+    background-color: rgb(35, 11, 43);
+    width: 995px;
+    height: 115px;
+}
+
+#head{
+    background-color: rgb(31, 36, 61);
+}
+#owner{
+    display: inline;
+}
+#title{
+    float: right;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+/* 
+Student_portal */
+.Schoollogo {
+    margin: 15px;
+    height: 80%;
+    width: 100%;
+    background: tomato;
+}
+
+
+.framdiv {
+    height: 420px;
+    width: 320px;
+    background: firebrick;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+
+
+}
+
+h3 {
+    text-align: center;
+    padding: 0 0 20px;
+    margin: 0;
+    font-size: 22px;
+}
+
+/* .fontcolor{
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
+
+} */
+.framdiv p {
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
+
+}
+
+.framdiv input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.framdiv input[type="text"],
+input[type="password"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+}
+
+.framdiv input[type="submit"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    font-weight: bold;
+    color: fb2525;
+    background: turquoise;
+    font-size: 18px;
+}
+
+
+/* student_portal */
+
+
+
+/* Add Student details */
+
+.add_student {
+
+    width: 80%;
+    height: 80px;
+    /* background: yellow; */
+    top: 5%;
+    left: 10%;
+    position: relative;
+    box-sizing: border-box;
+    display: block;
+
+
+}
+
+.add_student h1 {
+    margin-left: 36%;
+    display: inline;
+    border: 1px groove aquamarine;
+    background-color: tomato;
+}
+
+
+#workFrame {
+    position: relative;
+    height: 500px;
+    width: 100%;
+    border: 1px solid;
+    overflow: hidden;
+}
+
+.nav {
+    width: 20%;
+    background: none;
+    border-top: 2px double aqua;
+    border-right: 2px double aqua;
+    background: violet;
+    float: left;
+    padding: none;
+    margin-right: 10px;
+
+
+}
+
+
+.nav li {
+    font-size: 20px;
+}
+
+a {
+    margin: 10px;
+
+}
+.iframe {
+    float: left;
+    width: 77%;
+    height:520px;
+    position: relative;
+    overflow: hidden;
+} 
+
+iframe {
+    width: 100%;
+    height: 100%;
+} 
+
+html{
+    height: 100%;
+}
+
+/* Add Student details */
+    
+

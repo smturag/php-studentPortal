@@ -1,0 +1,81 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    margin: 0%;
+    height: 100%;
+}
+#header{
+    width: 80%;
+    height: px;
+   background-color: aqua;
+   padding-top: 7px;
+   text-align: center;
+   margin: 10px;
+   
+   
+    
+    
+}
+label{
+    margin: 10px;
+    font: bold;
+}
+input{
+    text-align: center;
+}
+#btn{
+    margin-left: 30px;
+}
+
+#show_profile{
+    /* background: #000; */
+    height: 45%;
+    width: 39%;
+    margin-left: 16px;
+    float: left;
+    
+    
+    
+}
+#sf{
+    text-align: center;
+}
+
+
+h1{
+    background: violet;
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: thick 3px;
+}
+#element{
+    margin-top: 60px;
+}
+h3{
+    text-align: left;
+    display: inline;
+    color: rgb(63, 59, 42);
+    margin: 15px;
+    
+}
+#marks_entry{
+    height: 45%;
+    width: 39%;
+    float: left;
+    
+    margin-left: 10px;
+    align-items: center;
+}
+#btn2{
+    text-align: center;
+    margin-top: 25%;
+    float: left;
+    
+}
+#btn2::-webkit-inner-spin-button, 
+#btn2::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}

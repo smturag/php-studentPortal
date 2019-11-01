@@ -1,0 +1,77 @@
+#maindiv{
+    margin-top: 25px;
+}
+label{
+    color: aliceblue;
+}
+#id{
+    width: 100%;
+    height: 20%;
+    background: violet;
+
+}
+
+
+#main{   
+    background-color: rgb(40, 49, 46);
+    height: 100%;
+    width: 100%;
+    margin-top: 15px;
+   
+}
+
+
+input{
+    background: greenyellow;
+}
+
+
+#sname:focus  {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #3CBC8D;
+    color: white
+    
+}
+#fname:focus  {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #3CBC8D;
+    color: white
+}
+#mname:focus  {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #3CBC8D;
+    color: white
+}
+
+#address{
+    border: none;
+    border-bottom: 2px hotpink groove;
+    width: 40%;
+}
+#btn{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    
+    position:relative;
+    top:55%; 
+    left:45%;
+
+}
+

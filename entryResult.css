@@ -1,0 +1,39 @@
+html{
+    height: 400px;
+    width: 800px;
+}
+
+body{
+    height: 50%;
+}
+
+#frame{
+    background: rgb(32, 24, 24);    
+    width: 400px;
+    height: 350px;
+    margin: 100px 300px;
+    border-radius:80px;
+    overflow: hidden;
+}
+
+button {
+   text-align: center;
+   border: 1px cadetblue;
+   font-size: 25px;
+   color: aliceblue;
+   background: teal;
+   border: none;
+   padding: 15px 32px;  
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;   
+    
+}
+#btn1{
+    margin: 130px 55px ;
+
+}
+
+.box :first-child {
+    align-self: center;
+}
